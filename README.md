@@ -3,6 +3,7 @@
 In this project, I analyzed sales of bike for different categories of customers.
 
 The following steps were adopted:
+
 **1. Data Cleaning**
 
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1684688054/Data_Cleaning_vsrnav.jpg)
